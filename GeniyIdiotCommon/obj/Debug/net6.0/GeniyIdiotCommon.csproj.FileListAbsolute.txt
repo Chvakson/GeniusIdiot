@@ -1,0 +1,12 @@
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\bin\Debug\net6.0\GeniyIdiotCommon.deps.json
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\bin\Debug\net6.0\GeniyIdiotCommon.dll
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\bin\Debug\net6.0\GeniyIdiotCommon.pdb
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.csproj.AssemblyReference.cache
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.AssemblyInfoInputs.cache
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.AssemblyInfo.cs
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.csproj.CoreCompileInputs.cache
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.dll
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\refint\GeniyIdiotCommon.dll
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\GeniyIdiotCommon.pdb
+C:\С#\GIT_C#\GeniyIdiot\GeniyIdiotCommon\obj\Debug\net6.0\ref\GeniyIdiotCommon.dll

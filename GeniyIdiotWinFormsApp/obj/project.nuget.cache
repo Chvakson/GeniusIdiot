@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cXzFtv+bNsBrN+l5BXAtAff205HDcabFoWav0GpV7MuR1TpuJDAltpKxyxGZ+lnb+Xj4Yhl9AFGxQMHX5sZZw==",
+  "success": true,
+  "projectFilePath": "C:\\С#\\GIT_C#\\GeniyIdiot\\GeniyIdiotWinFormsApp\\GeniyIdiotWinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79827\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

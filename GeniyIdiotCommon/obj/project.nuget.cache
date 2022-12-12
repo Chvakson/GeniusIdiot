@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "70wmrxsCwR3fSilE8IGtwF43Q8BqgXIIgHpUnpwGNEsUDIdGcES6YiSwc/OsWqPdhIJyLsH9yF7V4oEThFjZ6Q==",
+  "success": true,
+  "projectFilePath": "C:\\С#\\GIT_C#\\GeniyIdiot\\GeniyIdiotCommon\\GeniyIdiotCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79827\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
