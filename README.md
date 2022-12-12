@@ -1,2 +1,0 @@
-# GeniusIdiot
-Game-test
